@@ -1,23 +1,22 @@
 *{
   background: black;
 }
+body{
+  align-items: center;
+}
 t1{
   color: green;
   font-weight: 45px;
-  align-items: center;
 }
 t2{
   color: yellow;
   font-weight: 35px;
-  align-items: center;
 }
 t3{
   color: red;
   font-weight: 25px;
-  align-items: center;
 }
 t4{
   color: blue;
   font-weight: 50px;
-  align-items: center;
 }
