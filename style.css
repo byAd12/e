@@ -1,16 +1,23 @@
+*{
+  background: black;
+}
 t1{
   color: green;
-  font-weight: 15px;
+  font-weight: 45px;
+  align-items: center;
 }
 t2{
   color: yellow;
-  font-weight: 13px;
+  font-weight: 35px;
+  align-items: center;
 }
 t3{
   color: red;
-  font-weight: 10px;
+  font-weight: 25px;
+  align-items: center;
 }
 t4{
   color: blue;
-  font-weight: 20px;
+  font-weight: 50px;
+  align-items: center;
 }
