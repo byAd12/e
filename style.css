@@ -4,6 +4,9 @@
 body{
   align-items: center;
 }
+.foto{
+  width: 120px;
+}
 .uno{
   color: green;
   font-size: 45px;
