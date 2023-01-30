@@ -7,16 +7,20 @@ body{
 t1 .uno{
   color: green;
   font-size: 45px;
+  background: yellow;
 }
 t2 .dos{
   color: yellow;
   font-size: 35px;
+  background: red;
 }
 t3 .tres{
   color: red;
   font-size: 25px;
+  background: blue;
 }
 t4 .cuatro{
   color: blue;
   font-size: 50px;
+  background: yellow;
 }
