@@ -10,25 +10,25 @@ body{
 .uno{
   color: green;
   font-size: 45px;
-  background: yellow;
+  background: red;
   text-align: center;
 }
 .dos{
   color: yellow;
   font-size: 35px;
-  background: red;
+  background: yellow;
   text-align: center;
 }
 .tres{
   color: red;
   font-size: 25px;
-  background: blue;
+  background: yellow;
   text-align: center;
 }
 .cuatro{
   color: blue;
   font-size: 50px;
-  background: yellow;
+  background: red;
   text-align: center;
 }
 h1{
