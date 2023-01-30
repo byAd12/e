@@ -4,19 +4,19 @@
 body{
   align-items: center;
 }
-t1{
+t1 .uno{
   color: green;
   font-weight: 45px;
 }
-t2{
+t2 .dos{
   color: yellow;
   font-weight: 35px;
 }
-t3{
+t3 .tres{
   color: red;
   font-weight: 25px;
 }
-t4{
+t4 .cuatro{
   color: blue;
   font-weight: 50px;
 }
