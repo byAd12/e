@@ -6,17 +6,17 @@ body{
 }
 t1 .uno{
   color: green;
-  font-weight: 45px;
+  font-size: 45px;
 }
 t2 .dos{
   color: yellow;
-  font-weight: 35px;
+  font-size: 35px;
 }
 t3 .tres{
   color: red;
-  font-weight: 25px;
+  font-size: 25px;
 }
 t4 .cuatro{
   color: blue;
-  font-weight: 50px;
+  font-size: 50px;
 }
